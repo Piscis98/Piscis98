@@ -34,11 +34,10 @@ Me destaco en el uso de un stack diverso que me permite abordar proyectos desde 
 
 ### 📊 Mis Estadísticas de GitHub
 
-<!-- Tarjeta principal de estadísticas -->
-![Estadísticas de GitHub de Piscis98](https://vercel.app)
-
-<!-- Tarjeta de lenguajes más utilizados -->
-![Lenguajes más usados de Piscis98](https://vercel.app)
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Piscis98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piscis98&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
 
 ---
 
