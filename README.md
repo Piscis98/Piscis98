@@ -32,15 +32,6 @@ Me destaco en el uso de un stack diverso que me permite abordar proyectos desde 
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Piscis98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piscis98&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 📫 Conéctate conmigo
 
 Si quieres hablar sobre desarrollo de software, colaboraciones en proyectos o soluciones tecnológicas eficientes, no dudes en escribirme:
